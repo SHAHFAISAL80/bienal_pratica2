@@ -1,0 +1,21 @@
+id,name,artist,year,description,image_path
+1,Abaporu,Tarsila do Amaral,1928,"Pintura modernista icônica do movimento antropófago brasileiro",artworks/abaporu.jpg
+2,O Mestiço,Candido Portinari,1934,"Representação da diversidade racial brasileira",artworks/mestizo.jpg
+3,Saudade,Almeida Júnior,1899,"Retrato melancólico de uma figura feminina",artworks/saudade.jpg
+4,O Lavrador de Café,Candido Portinari,1939,"Retrato do trabalhador rural brasileiro",artworks/lavrador.jpg
+5,Tropical,Anita Malfatti,1917,"Obra expressionista com cores vibrantes",artworks/tropical.jpg
+6,Pau-Brasil,Tarsila do Amaral,1925,"Representação da natureza brasileira",artworks/pau_brasil.jpg
+7,O Violeiro,Almeida Júnior,1899,"Cena do cotidiano caipira paulista",artworks/violeiro.jpg
+8,Operários,Tarsila do Amaral,1933,"Crítica social sobre a industrialização",artworks/operarios.jpg
+9,Menino com Lagartixa,Lasar Segall,1924,"Retrato infantil com elementos simbólicos",artworks/menino_lagartixa.jpg
+10,São Paulo,Tarsila do Amaral,1924,"Vista urbana da cidade em crescimento",artworks/sao_paulo.jpg
+11,O Vendedor de Frutas,Tarsila do Amaral,1925,"Cena de mercado popular",artworks/vendedor_frutas.jpg
+12,Autorretrato,Lasar Segall,1927,"Autorretrato expressionista",artworks/autorretrato.jpg
+13,Café,Candido Portinari,1935,"Painéis sobre a cultura cafeeira",artworks/cafe.jpg
+14,O Homem Amarelo,Anita Malfatti,1917,"Figura expressionista marcante",artworks/homem_amarelo.jpg
+15,Urutu,Tarsila do Amaral,1928,"Paisagem brasileira estilizada",artworks/urutu.jpg
+16,Bananeiras,Lasar Segall,1927,"Paisagem tropical brasileira",artworks/bananeiras.jpg
+17,A Negra,Tarsila do Amaral,1923,"Figura feminina afro-brasileira",artworks/negra.jpg
+18,Morro da Favela,Tarsila do Amaral,1924,"Primeira representação de favela na arte",artworks/morro_favela.jpg
+19,O Mamoeiro,Tarsila do Amaral,1925,"Natureza morta tropical",artworks/mamoeiro.jpg
+20,Guerra,Lasar Segall,1942,"Crítica aos horrores da guerra",artworks/guerra.jpg
